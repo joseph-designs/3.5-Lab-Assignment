@@ -3,11 +3,16 @@ body{
     background: #37323E;
 }
 
-div{
+div.card{
     background: #d9d9d9;
     margin: auto;
     width: 500px;
 }
+
+#company [
+
+]
+
 h1{
      background: #deb841;
 }
