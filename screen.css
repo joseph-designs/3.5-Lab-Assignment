@@ -27,5 +27,10 @@ h1{
 img { 
     float: left;
     margin-right: 20px;
-    
+
+}
+
+li {
+
+margin-left: 20px;
 }
