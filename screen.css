@@ -23,7 +23,7 @@ h1{
      padding: 20px;
      border-radius: 20px 20px 0 0;
      font-family: Arial, sans-serif;
-     color: white;
+     color: #3D405B;
 }
 
 img { 
@@ -34,7 +34,7 @@ img {
 
 li {
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: #3D405B;
     padding-left: 30px;
 margin-left: 20px;
 }
@@ -42,12 +42,12 @@ margin-left: 20px;
 h2{
 
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: #3D405B;
 }
 
 p{
 
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: #3D405B;
 }
 
