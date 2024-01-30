@@ -3,9 +3,9 @@ body{
     background: #37323E;
 }
 
-div.card{
+.card{
     background: #d9d9d9;
-    margin: auto;
+    margin: 0 auto;
     width: 500px;
 }
 
