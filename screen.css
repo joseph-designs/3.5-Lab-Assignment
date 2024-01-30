@@ -9,6 +9,11 @@ body{
     width: 500px;
 }
 
+.card div{
+    padding: 20px;
+}
+
 h1{
      background: #deb841;
+     padding: 20px;
 }
