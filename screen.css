@@ -22,7 +22,7 @@ h1{
      margin-bottom: 0;
      padding: 20px;
      border-radius: 20px 20px 0 0;
-     font-family: Arial, #E07A5F, sans-serif;
+     font-family: Arial, sans-serif;
 }
 
 img { 
@@ -33,6 +33,7 @@ img {
 
 li {
     font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
     padding-left: 30px;
 margin-left: 20px;
 }
