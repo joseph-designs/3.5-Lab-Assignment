@@ -5,7 +5,7 @@ body{
 }
 
 .card{
-    background: #d9d9d9;
+    background: #F4F1DE;
     margin: 0 auto;
     width: 500px;
     height: 300px;
@@ -18,11 +18,11 @@ body{
 }
 
 h1{
-     background: #deb841;
+     background: #81B29A;
      margin-bottom: 0;
      padding: 20px;
      border-radius: 20px 20px 0 0;
-     font-family: Arial, black, sans-serif;
+     font-family: Arial, #E07A5F, sans-serif;
 }
 
 img { 
